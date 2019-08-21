@@ -5,6 +5,7 @@
 #include "atlscript.h"
 #include <map>
 #include <vector>
+#include <string>
 #include "path.h"
 #include "ScriptError.h"
 
